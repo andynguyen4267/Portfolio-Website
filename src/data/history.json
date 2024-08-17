@@ -4,7 +4,9 @@
       "organisation": "Partner ESI",
       "startDate": "Jan, 2024",
       "endDate": "Jun, 2024",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%", "test", "test"],
+      "experiences": ["Developed an interactive chatbot.", 
+      "Utilized OpenAI’s GPT API and vector databases through Chroma and LangChain.", 
+      "Increased accuracy by curating tailored and specific documents related to the clients’ needs."],
       "imageSrc": "history/partneresi.png"
     },
     {
@@ -12,7 +14,9 @@
       "organisation": "Dreams for Schools",
       "startDate": "Aug, 2023",
       "endDate": "Dec, 2023",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "experiences": ["Developed and delivered engaging coding and game design lessons to students.", 
+      "Designed a comprehensive curriculum that simplified complex coding concepts.", 
+      "Monitored and assessed student progress, providing constructive feedback and fostering a supportive learning environment."],
       "imageSrc": "history/dreamsforschools.png"
     }
   ]
