@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Student SWE Intern",
+      "organisation": "Partner ESI",
+      "startDate": "Jan, 2024",
+      "endDate": "Jun, 2024",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%", "test", "test"],
+      "imageSrc": "history/partneresi.png"
+    },
+    {
+      "role": "Coding Instructor/Mentor",
+      "organisation": "Dreams for Schools",
+      "startDate": "Aug, 2023",
+      "endDate": "Dec, 2023",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/dreamsforschools.png"
+    }
+  ]

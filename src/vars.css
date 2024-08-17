@@ -1,0 +1,20 @@
+:root {
+    /* Colours */
+    --color-text: #fff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-bg: #04152d;
+  
+    /* Fonts */
+    --font-roboto: "Roboto";
+  }
+
+  .light-theme {
+    --color-text: #000; 
+    --color-primary: #3b5998;
+    --color-secondary: #8bbbe6; 
+    --color-dark: #e2e2e2; 
+    --color-bg: #f9f9f9; 
+    --font-roboto: "Roboto";
+}
