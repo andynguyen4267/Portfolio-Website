@@ -19,9 +19,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>My Journey</h3>
               <p>
-              I graduated in 2024 from UCI. Since then, I've been on an exciting journey of building and 
-              deploying web applications that make a difference. My expertise lies in developing robust and 
-              scalable web applications.
+              I graduated in 2024 from UCI and have since been on a journey focused on using data to uncover insights and solve
+              real-world problems. I enjoy exploring trends, identifying patterns, and turning raw data into actionable insights.
+              I'm excited to continue developing as an analyst and contribute to data-driven decision-making.
               </p>
             </div>
           </li>
@@ -30,9 +30,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>My Philosophy</h3>
               <p>
-              I believe in continuous learning and always strive to keep up with the latest industry trends and 
-              technologies. My approach to software engineering is rooted in constantly seeking to improve both 
-              my technical skills and the user experience of my applications.
+              I believe in continuous learning and staying curious. I'm committed to growing my analytical skills and
+              keeping up with evolving tools and industry trends. My goal is to turn data into decisions that make a real difference.
               </p>
             </div>
           </li>
@@ -41,8 +40,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Outside of Work</h3>
               <p>
-                While I'm not coding, you can find me at a basketball court shooting some hoops or immersing myself
-                during board game nights.
+                While I'm not diving into data, you'll find me shooting hoops on the basketball court or
+                enjoying a good board game night with friends.
               </p>
             </div>
           </li>

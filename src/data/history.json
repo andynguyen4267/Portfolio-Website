@@ -4,19 +4,19 @@
       "organisation": "Partner ESI",
       "startDate": "Jan, 2024",
       "endDate": "Jun, 2024",
-      "experiences": ["Developed an interactive chatbot.", 
-      "Utilized OpenAI’s GPT API and vector databases through Chroma and LangChain.", 
-      "Increased accuracy by curating tailored and specific documents related to the clients’ needs."],
+      "experiences": ["Worked with a student team to build an AI chatbot that searched 1,000+ property-related documents.", 
+      "Used OpenAI’s GPT API, Chroma, and LangChain for fast, semantic document retrieval.", 
+      "Curated 100+ client-specific reports, cutting response time from 60s to under 15s."],
       "imageSrc": "history/partneresi.png"
     },
     {
       "role": "Coding Instructor/Mentor",
       "organisation": "Dreams for Schools",
       "startDate": "Aug, 2023",
-      "endDate": "Dec, 2023",
-      "experiences": ["Developed and delivered engaging coding and game design lessons to students.", 
-      "Designed a comprehensive curriculum that simplified complex coding concepts.", 
-      "Monitored and assessed student progress, providing constructive feedback and fostering a supportive learning environment."],
+      "endDate": "Dec, 2023, Jan, 2025 - May, 2025",
+      "experiences": ["Delivered coding and game design lessons to over 60 K-8 students across four program terms.", 
+      "Designed and adapted curriculum materials to simplify coding concepts.", 
+      "Tracked student attendance and over 100 personal work hours using Google Sheets, applying basic data entry and organizational techniques."],
       "imageSrc": "history/dreamsforschools.png"
     }
   ]

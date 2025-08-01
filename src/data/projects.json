@@ -1,34 +1,42 @@
 [
     {
-      "title": "Agendae",
-      "imageSrc": "projects/Agendae.png",
-      "description": "A To-Do List with voice recognition.",
-      "skills": ["React", "Express", "Node", "MongoDB", "CSS"],
-      "demo": "https://agendae.onrender.com/",
-      "source": "https://github.com/andynguyen4267/agendae-app"
+      "title": "NBA Analysis",
+      "imageSrc": "projects/NBA_Analysis.png",
+      "description": "SQL-powered insights and Tableau dashboards from NBA player and team performance data.",
+      "skills": ["SQL", "Tableau", "Excel", "Analysis"],
+      "demo": "https://public.tableau.com/app/profile/andy.nguyen4739/viz/NBADashboardProject_17532232901420/NBADashboard",
+      "source": "https://github.com/andynguyen4267/NBA-SQL-Analysis"
     },
     {
-      "title": "SnapHealth",
-      "imageSrc": "projects/SnapHealth_image.png",
-      "description": "An Android Mobile App for personalized health advice.",
-      "skills": ["Kotlin", "XML"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com/andynguyen4267/SnapHealth"
+      "title": "Data Cleaning Project",
+      "imageSrc": "projects/Data_Cleaning.png",
+      "description": "Cleaned and transformed raw data using SQL for accurate, analysis-ready results.",
+      "skills": ["SQL", "Data Cleaning"],
+      "demo": "",
+      "source": "https://github.com/andynguyen4267/SQL-Data-Cleaning"
     },
     {
-      "title": "UCI Web Crawler",
-      "imageSrc": "projects/project.png",
-      "description": "A Web Crawler for UCI related websites.",
-      "skills": ["Python", "tkinter", "BeautifulSoup"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com/andynguyen4267/UCI-Web-Crawler"
+      "title": "COVID Analysis",
+      "imageSrc": "projects/Covid_Analysis.png",
+      "description": "Analysis in global trends in cases, deaths, and vaccinations using SQL to extract insights.",
+      "skills": ["SQL", "Tableau", "Excel", "Analysis"],
+      "demo": "https://public.tableau.com/app/profile/andy.nguyen4739/viz/CovidDashboardProject_17520765885390/Dashboard1",
+      "source": "https://github.com/andynguyen4267/Covid-SQL-Analysis"
     },
     {
-      "title": "Portfolio Website",
-      "imageSrc": "projects/Portfolio_image.png",
-      "description": "A Portfolio Website to showcase my work.",
-      "skills": ["React", "Node", "CSS"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com/andynguyen4267/UCI-Web-Crawler"
+      "title": "Movie Data Correlation Analysis",
+      "imageSrc": "projects/movies.png",
+      "description": "Movie dataset analysis using Python, with a focus on examining correlations between various numerical features.",
+      "skills": ["Python", "pandas", "numpy", "seaborn", "matplotlib", "Jupyter"],
+      "demo": "",
+      "source": "https://github.com/andynguyen4267/movie-data-correlation-analysis"
+    },
+    {
+      "title": "NBAReels",
+      "imageSrc": "projects/nbareels.png",
+      "description": "NBA highlights aggregator web app used to view and favorite player and team highlights by integrating YouTube and BALLDONTLIE APIs.",
+      "skills": ["React", "Node", "CSS", "PostgreSQL", "API"],
+      "demo": "https://nbareels.onrender.com/",
+      "source": "https://github.com/andynguyen4267/NBAReels"
     }
   ]

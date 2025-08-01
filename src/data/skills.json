@@ -1,5 +1,29 @@
 [
     {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Excel",
+      "imageSrc": "skills/Excel.png"
+    },
+    {
+      "title": "Sheets",
+      "imageSrc": "skills/google_sheets.png"
+    },
+    {
+      "title": "GitHub",
+      "imageSrc": "skills/github-mark.png"
+    },
+    {
+      "title": "jupyter",
+      "imageSrc": "skills/jupyter.png"
+    },
+    {
       "title": "CSS",
       "imageSrc": "skills/css.png"
     },
@@ -10,21 +34,5 @@
     {
       "title": "Node",
       "imageSrc": "skills/node.png"
-    },
-    {
-      "title": "MongoDB",
-      "imageSrc": "skills/mongodb.png"
-    },
-    {
-      "title": "Python",
-      "imageSrc": "skills/python.png"
-    },
-    {
-      "title": "SQL",
-      "imageSrc": "skills/sql.png"
-    },
-    {
-      "title": "Express",
-      "imageSrc": "skills/express.png"
     }
   ]
